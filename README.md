@@ -1,2 +1,2 @@
-# projet_1
+# project_1
 Breackdown and integrate a mock up using HTML and CSS
